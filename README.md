@@ -39,5 +39,4 @@ My focus is on **clean code**, **performance optimization**, and **seamless user
 ---
 
 ### 📫 How to reach me
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: sharifezat53@gmail.com
