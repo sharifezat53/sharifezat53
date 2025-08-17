@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Ezat Sharif</h1>
 <h3 align="center">Full Stack Web Developer | Laravel & Modern UI Specialist</h3>
 
 ---
